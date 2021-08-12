@@ -8,7 +8,7 @@
 
 指标上报状态，App里指标名称颜色为彩色，如下图：
 
-![](/images/1628764997507.png)
+<img src="https://static.ucloud.cn/docs/urlm/images/1628764794074.png?v=1628765441" width="280">
 
 ## 无上报状态
 
