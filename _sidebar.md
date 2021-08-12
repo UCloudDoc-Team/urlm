@@ -10,11 +10,10 @@
         * [添加资源](/urlm/guide/console/add_resource)
         * [添加监控指标](/urlm/guide/console/add_metric)
     * App端 
-        * [登录](/urlm/guide/app/login_app)
+        * [指标上报状态](/urlm/guide/app/metric_report_status)
         * [快速搜索资源](/urlm/guide/app/quick_search_res)
         * [实时查看监控指标数据](/urlm/guide/app/metric_data)
         * [实时查看监控指标详情数据](/urlm/guide/app/metric_data_detail)
-        * [查看指标上报状态](/urlm/guide/app/metric_report_status)
 * FAQ
     * [App下载](/urlm/faq/app_download)
     * [App切换深色模式](/urlm/faq/app_darkmode)
