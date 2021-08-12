@@ -1,6 +1,6 @@
 # App下载
 
-## 苹果应用商店
+## 苹果手机
 
 #### 方式一
 ![](images/qrcode/rlm-iOS.png)
@@ -13,10 +13,10 @@
 
 浏览器里输入下载链接 [https://apps.apple.com/cn/app/id1566975886](https://apps.apple.com/cn/app/id1566975886)
 
-## 安卓应用商店
+## 安卓手机
     
 #### 方式一
-![](images/qrcode/rlm-Android.png)
+![](images/qrcode/rlm-android.png)
 
 #### 方式二
 
