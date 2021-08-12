@@ -11,7 +11,7 @@
    
 #### 方式三
 
-浏览器里输入下载链接 [https://apps.apple.com/cn/app/id1566975886](https://apps.apple.com/cn/app/id1566975886)
+手机浏览器里输入下载链接 [https://apps.apple.com/cn/app/id1566975886](https://apps.apple.com/cn/app/id1566975886)
 
 ## 安卓手机
     
@@ -24,7 +24,7 @@
     
 #### 方式三
 
-浏览器里输入下载链接 [https://rlm-app.cn-sh2.ufileos.com/rlm.apk](https://rlm-app.cn-sh2.ufileos.com/rlm.apk)
+手机浏览器里输入下载链接 [https://rlm-app.cn-sh2.ufileos.com/rlm.apk](https://rlm-app.cn-sh2.ufileos.com/rlm.apk)
 
 ## 注意事项
 

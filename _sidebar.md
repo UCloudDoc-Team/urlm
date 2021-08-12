@@ -16,7 +16,7 @@
         * [实时查看监控指标详情数据](/urlm/guide/app/metric_data_detail)
         * [查看指标上报状态](/urlm/guide/app/delete_client)
 * FAQ
-    * [App应用商店下载地址](/urlm/faq/app_download)
+    * [App下载](/urlm/faq/app_download)
     * [App告警通知权限](/urlm/faq/app_notify_auth)
     * [App切换深色模式](/urlm/faq/app_darkmode)
   
