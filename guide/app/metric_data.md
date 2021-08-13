@@ -8,12 +8,13 @@ App首页展开资源，点击需要查看的指标名称。
 
 带图表的实时指标展示
 
-![](/images/1628825101397.png)
+<img src="https://static.ucloud.cn/docs/urlm/images/1628825101397.png?v=1628825803" width="320">
 
 ## 无图表展示指标
 
 不带图表的实时指标展示
 
-![](/images/1628825717967.png)
+<img src="https://static.ucloud.cn/docs/urlm/images/1628825717967.png?v=1628825803" width="320">
 
 ## 注意事项
+
