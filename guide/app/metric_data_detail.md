@@ -8,10 +8,10 @@
 
 点击实时指标数值
 
-![](/images/1628826486081.png)
+<img src="https://static.ucloud.cn/docs/urlm/images/1628826486081.png?v=1628826820" width="320">
 
 查看指标详情数据
 
-![](/images/1628826481089.png)
+<img src="https://static.ucloud.cn/docs/urlm/images/1628826481089.png?v=1628826820" width="320">
 
 ## 注意事项
