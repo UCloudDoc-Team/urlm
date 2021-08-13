@@ -8,7 +8,8 @@
 
 在搜索框里输入搜索内容的关键字。
 
-<img src="https://static.ucloud.cn/docs/urlm/images/1628822998805.png?v=1628823143" width="320">
+<!--<img src="https://static.ucloud.cn/docs/urlm/images/1628822998805.png?v=1628823143" width="320">-->
+![](/images/1628823787744.png)
 
 ## 注意事项
 
