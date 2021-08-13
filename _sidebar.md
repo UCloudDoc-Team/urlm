@@ -16,5 +16,4 @@
         * [实时查看监控指标详情数据](/urlm/guide/app/metric_data_detail)
 * FAQ
     * [App下载](/urlm/faq/app_download)
-    * [App切换深色模式](/urlm/faq/app_darkmode)
   
