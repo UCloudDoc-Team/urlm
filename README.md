@@ -7,7 +7,7 @@
 * 操作指南
     * Web端 
         * [登录控制台](/urlm/guide/console/login_console) 
-        * [添加产品](/urlm/guide/console/add_product)
+        * [创建产品](/urlm/guide/console/add_product)
         * [添加资源](/urlm/guide/console/add_resource)
         * [添加监控指标](/urlm/guide/console/add_metric)
     * App端 
