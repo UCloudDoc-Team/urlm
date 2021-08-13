@@ -8,21 +8,20 @@
 
 指标上报状态，App里指标名称颜色为彩色，如下图：
 
-<!--<img src="https://static.ucloud.cn/docs/urlm/images/1628764794074.png?v=1628765441" width="280">-->
+<img src="https://static.ucloud.cn/docs/urlm/images/1628819278299.png?v=1628820289" width="280">
 
-![](/images/1628819278299.png)
 
 ## 无上报状态
 
 指标无上报状态，App里指标名称颜色为灰色，如下图：
 
-![](/images/1628819315132.png)
+<img src="https://static.ucloud.cn/docs/urlm/images/1628819315132.png?v=1628820289" width="280">
 
 ## 资源下的所有指标都无上报
 
 资源下的所有指标都无上报，资源名称会显示为灰色，如下图：
 
-![](/images/1628819091925.png)
+<img src="https://static.ucloud.cn/docs/urlm/images/1628819091925.png?v=1628820289" width="280">
 
 ## 注意事项
 
